@@ -1,0 +1,64 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\bin\Debug\student_information.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\bin\Debug\student_information.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\bin\Debug\student_information.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Form3.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Form4.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\student_information\student_information\bin\Debug\student_information.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Form5.resources
+C:\Users\Administrator\documents\visual studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Form6.resources
+C:\Users\Administrator\Desktop\student_information\student_information\bin\Debug\student_information.exe.config
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.exe
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.xml
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.pdb
+C:\Users\Administrator\Desktop\student_information\student_information\bin\Debug\Database2.accdb
+C:\Users\Administrator\Desktop\student_information\student_information\bin\Debug\Database_1.accdb
+C:\Users\Administrator\Desktop\student_information\student_information\bin\Debug\student_information.exe
+C:\Users\Administrator\Desktop\student_information\student_information\bin\Debug\student_information.pdb
+C:\Users\Administrator\Desktop\student_information\student_information\bin\Debug\student_information.xml
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.Form1.resources
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.Form2.resources
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.Form3.resources
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.Form4.resources
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.Form5.resources
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.Form6.resources
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\student_information.Resources.resources
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Desktop\student_information\student_information\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\documents\visual studio 2010\Projects\student_information\student_information\obj\x86\Debug\student_information.Form7.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Debug\Database.accdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Debug\student_information.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Debug\student_information.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Debug\student_information.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Debug\student_information.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form2.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form3.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form4.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form5.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form6.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form7.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form8.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form9.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.Form10.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Debug\student_information.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Debug\student_information.application
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.TrustInfo.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.exe.manifest
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\obj\x86\Debug\student_information.application
