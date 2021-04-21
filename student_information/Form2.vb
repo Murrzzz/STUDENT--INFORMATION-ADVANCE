@@ -5,13 +5,13 @@ Imports System.Data
 
 Public Class Form2
     Dim user As String = Nothing
-
+    'try to pull this by adding this comment in git hub'
     Dim connection As New OleDbConnection("Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Administrator\Documents\Visual Studio 2010\Projects\STUDENT INFORMATION ADVANCE\student_information\bin\Database.accdb")
     Dim provider As String
     Dim file As String
     Dim connString As String
     Dim tries As Integer = 3
-
+    
     Public Property user_name As String = "none" 'username <<<<'
 
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
